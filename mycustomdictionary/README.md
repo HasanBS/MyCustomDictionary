@@ -8,7 +8,7 @@
 
 
 
-**MyCustomDictionary** is a customizable dictionary application for users. Dictionaries is not specified in a specified field and can be held information about variety subjects. The app is developed for android and ios. The development of application is performed on two different main layers. First, backend layer of the application is developed by using .Net Core, C#. Backend of the application is a bridge between data and application, an api. Second, frontend layer of the application is developed by using Flutter, dart. Frontend of the application is the presentation of application to the user. In this repository we have the frontend side of the project.
+**MyCustomDictionary** is a customizable dictionary application for users. Dictionaries is not specified in a specified field and can be held information about variety subjects. The app is developed for android and ios. The development of application is performed on two different main layers. First, backend layer of the application is developed by using .Net Core, C#. Backend of the application is a bridge between data and application, an api. Second, frontend layer of the application is developed by using Flutter, dart. Frontend of the application is the presentation of application to the user. In this repository we have the frontend side of the project. Which I made by myself.
 
 ---
 ### Login and Singup Screen
